@@ -7,3 +7,4 @@ Space:The illusion created by the size of an object.
 Unity:Different ideas of the same theme used together to make one design 
 Balance:The side of the art piece the artist wants the viewer to focus on.  
 Rhythm:A pattern or repetition of something found in the art piece. 
+
