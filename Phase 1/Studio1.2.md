@@ -2,9 +2,13 @@ Create an album cover that features the 1980’s synthwave. It should feature a 
 
 Genre Choice: Synthwave / Retro 1980s: Focus on glowing neon grids, vibrant sunset color palettes, polished chrome surfaces, and geometric laser lines. 
  
-Value:The lightness or darkness an artist uses to set a tone or mood. 
+Value:The lightness or darkness an artist uses to set a tone or mood.
+
 Space:The illusion created by the size of an object.  
+
 Unity:Different ideas of the same theme used together to make one design 
-Balance:The side of the art piece the artist wants the viewer to focus on.  
+
+Balance:The side of the art piece the artist wants the viewer to focus on
+
 Rhythm:A pattern or repetition of something found in the art piece. 
 
